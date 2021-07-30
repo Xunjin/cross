@@ -25,4 +25,15 @@ apt-get install --assume-yes --no-install-recommends \
   libtool \
   m4 \
   make \
-  pkg-config
+  pkg-config \
+  libx11-dev \
+  libxext-dev \
+  libxft-dev \
+  libxinerama-dev \
+  libxcursor-dev \
+  libxrender-dev \
+  libxfixes-dev \
+  libpango1.0-dev \
+  libpng-dev \
+  libgl1-mesa-dev \
+  libglu1-mesa-dev
